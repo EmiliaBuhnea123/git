@@ -1,1 +1,1 @@
-This is a README file fo practicing git
+This is a README.md file fo practicing git
