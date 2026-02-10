@@ -1,5 +1,5 @@
 {
-  "people": 
+  "people": [
     {"name": "John", "age": 30},
     {"name": "Alice", "age": 25}
   ]
